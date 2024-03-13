@@ -7,3 +7,5 @@ This QA bot will help the employee to solve the queries related to HR department
 - Then this bot will consider those documents for implementing the RAG approach.
 - When Employe have some doubts or queries at oraganizational level, then this Bot will answer all his/her questions.
 
+# This is on testing environment
+
