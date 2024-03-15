@@ -91,7 +91,7 @@ def main():
     with st.expander("ℹ️ - About this App"):
         st.markdown(
             """
-        This app uses Lyzr Core to generate notes from transcribed audio. The audio transcription is powered by OpenAI's Whisper model. For any inquiries or issues, please contact Lyzr.
+        This app uses Lyzr Core to generate answers from the PDF document uploaded by HR. This an Employee-HR QnA app where employees directly ask questions and this app will give the answers related to the document which is provided by the HR. For any inquiries or issues, please contact Lyzr.
 
         """
         )
