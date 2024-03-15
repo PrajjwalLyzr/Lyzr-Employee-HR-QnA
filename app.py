@@ -8,7 +8,7 @@ from dotenv import load_dotenv; load_dotenv()
 
 
 st.set_page_config(
-    page_title="Lyzr HR Bot",
+    page_title="Lyzr Employee-HR Q&A",
     layout="centered", 
     initial_sidebar_state="auto",
     page_icon="lyzr-logo-cut.png",
@@ -19,8 +19,8 @@ image = Image.open("lyzr-logo.png")
 st.image(image, width=150)
 
 
-st.title("Lyzr HR QA-Bot")
-st.markdown("### Welcome to the Lyzr HR-Bot!")
+st.title("Employee-HR Q&A by Lyzr")
+st.markdown("### Welcome to the Employee-HR QABot!")
 
 
 openai.api_key = os.getenv('OPENAI_API_KEY')
