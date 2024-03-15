@@ -1,9 +1,9 @@
-# Welcome to the Lyzr HR-Bot!
+# Welcome to the Employee-HR Q&A!
 
 This QA bot will help the employee to solve the queries related to HR department and organizational level. If the employee has any kind of question regarding HR, this QA bot will work like HR and provide answers to his/her questions.
 
 
-## Lyzr HR QA-Bot
+## Lyzr Employee-HR Q&A
 
 ![Lyzr Logo](lyzr-logo.png)
 
